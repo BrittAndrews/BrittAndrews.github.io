@@ -43,10 +43,14 @@ a:hover {
 
 
 .hero {
+	font-size: 50px;
 	background-repeat: no-repeat;
 	width: 100vw; 
 	height: 400px; 
 	background-color: #f1f1f1;
+	line-height: 200px;
+	display: flex;
+	justify-content: space-around;
 
 }
 
