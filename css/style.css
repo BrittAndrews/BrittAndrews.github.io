@@ -36,7 +36,6 @@ a:hover {
 	justify-content: space-between;
 	line-height: 40px;
 	width: 100vw; 
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	padding: 5px 2%;
 	height: 50px; 
 	background-color: #ffffff;
@@ -99,12 +98,62 @@ a:hover {
 
 
 .portfolio {
-	padding: 10%;
+	padding: 5%;
 	width: 100vw; 
-	height: 400px; 
+	height: 100%; 
 	background-color: #f1f1f1;
 
 }
+
+.portfolio-boxes {
+	width: 300px;
+	height: 300px;
+	background-color: #999999;
+}
+
+.portfolio-boxes img {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.proj-one {
+	margin: 10px 10px 10px 0;
+}
+
+.proj-two {
+	margin: 10px;
+}
+
+.proj-three {
+	margin: 10px;
+}
+
+.proj-four {
+	margin: 10px 0 10px 10px;
+}
+
+
+
+
+.design-one {
+	margin: 10px 10px 10px 0;
+}
+
+.design-two {
+	margin: 10px;
+}
+
+.design-three {
+	margin: 10px;
+}
+
+.design-four {
+	margin: 10px 0 10px 10px;
+}
+
+
+
 
 .testimonials {
 	padding: 10%;
